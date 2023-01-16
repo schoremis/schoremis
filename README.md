@@ -9,6 +9,7 @@ I am happy and proud to share my Github profile and projects with you.
 ### [Stroke Prediction](https://github.com/schoremis/Phase_5_Project-S.Choremis), 2022
 
 #### Summary
+
 The stakeholder of this project is a **Group of Hospitals** located in Florida, US that want to study the **main risk factors for stroke** and examine **if the risk of stroke can be predicted.**
 Our stakeholder is planning to use our analysis to **educate high risk patients about the warning signs** of a stroke and inform them about the **actions that they need to take in case that they detect an event**. 
 Early detection and treatment of a stroke is extremely important as it can **minimize brain damage.**
@@ -16,7 +17,6 @@ Early detection and treatment of a stroke is extremely important as it can **min
 This project will analyze **historic data of patients** in order to examine if there is any **correlation** but also study **if a stroke event can be predicted based on specific variables**.
 
 To achieve this, the project is using **Machine Learning Classification** principles and algorithms
-    
     
 According to our analysis, the most important variables that **drive a stroke event** are the below:
 
@@ -26,12 +26,6 @@ According to our analysis, the most important variables that **drive a stroke ev
 - **High Blood presure:**: : Patients with high blood presure are more likely to experiance a stroke compared to patients without high blood presure
 - **Heart Disease History**: Patients with Heart Disease History are more likely to experiance a stroke event compared to patients without a Heart Disease History
 
-According to the above conclusions, we offer the below **recommendations**:
-* `1:` Hospitals should gather **additional Data that can help us improve our model**. 
-  - Our models used a small amount of variables. Hospitals should gather and provide additional information about the medical history of the patients that can improve the accurecy and recall rates of our models. Some examples are if the patient exercises regularly, the cholestoral levels, the maximum heart rate achieved, or the resting blood pressure of the patient.
-  - The specific classification was undertaken on a small sample size of less than 5,000 patients. Therefore, our model can be further improve by increasing the amount of patients.
-* `2:` Our approach and models can be used to **detect other illnesses that cause death or long-term disability**. Analyzing and predicting the Heart Attack risk is an example.
-* `3:` Doctors can use our models to **inform patients about the risk level for a stroke event**. This will help patients to be better educated about the Warning Signs and the actions that they need to take in case of an event
 
 ### [Pneumonia Detection](https://github.com/schoremis/Phase_4_Project-S.Choremis), 2022
 
@@ -49,17 +43,11 @@ The project is analyzing **historic data** of Syriatel **one of the only two mob
 
 In addition, the project will study the **predictable patterns** and **provide recommendations** to SyriaTel management for customer churn reduction.    
 
-    
 According to our analysis, the **most important factors** that drive the decision of a Syriatel Mobile customer to churn are the below:
 
 - **International Plan**: 42% of the customers that have international plan churned
 - **Total charges**: : Customers with high charges are more likely to churn
 - **Customer Service Calls**: Customers that call the customer service line frequently (especially 4 times and more), have higher probabilities to churn
-
-According to the above conclusions, we offer the below **recommendations**:
-- 1: Syriatel should introduce a **new program for customers with high usage**. This new program can include **unlimeted calls for a monthly fee, similar to the competition.**
-- 2: Syriatel should introducce a **new international plan that is more competitive**. Should analyse the prices that the competition offer for International plans and provide a similar plan
-- 3: Syriatel should pay attention to the number of customer service calls that each customer makes. **Customers that call frequently the customer service line should be offered promotions or other programs to keep them with Syriatel**
 
 
 ### [King County Housing Price Predictions](https://github.com/schoremis/Phase_2_Project-S.Choremis), 2022
