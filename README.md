@@ -1,6 +1,6 @@
 # Welcome To My Github Profile!
 
-I am happy and proud to share my Github profile and projects with you. 
+I am happy to share my Github projects with you. 
 
 
 
