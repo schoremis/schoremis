@@ -1,4 +1,4 @@
-# Welcome To My Github Profile!
+# ***"Without data, you are just another person with an opinion."** ***- W. Edwards Deming'***
 
 ## About me
 Lived in England, Greece and the US.
