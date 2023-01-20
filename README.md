@@ -2,7 +2,7 @@
 
 ## About me
 Lived in England, Greece and the US.
-Directed seven functional areas for large, multi-national manufacturing companies including demand planning, materials planning, production planning, inventory management, business processes, customer service, logistics as well as warehousing/distribution.
+Directed 10 functional areas for large, multi-national manufacturing companies including business processes, master data management, business intelligence, logistics, demand planning, materials planning, production planning, inventory management, customer service, and warehousing/distribution. 
 Currently managing Business Processes and Master Data at Airbus Oneweb Satellites, where we are manufacturing 900 spacecrafts, 2 per day, to deliver affordable high-speed internet access globally. 
 Passionate to lead and empower teams to deliver sustainable business growth by creating customer and shareholder value.
 
