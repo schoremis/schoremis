@@ -1,6 +1,10 @@
 # Welcome To My Github Profile!
 
-I am happy to share my Github projects with you. 
+## About me
+Lived in England, Greece and the US.
+Directed seven functional areas for large, multi-national manufacturing companies including demand planning, materials planning, production planning, inventory management, business processes, customer service, logistics as well as warehousing/distribution.
+Currently managing Business Processes and Master Data at Airbus Oneweb Satellites, where we are manufacturing 900 spacecrafts, 2 per day, to deliver affordable high-speed internet access globally. 
+Passionate to lead and empower teams to deliver sustainable business growth by creating customer and shareholder value.
 
 ## Projects
 
@@ -26,7 +30,6 @@ In this project, I developed regression models that estimate the real estate pri
 
 ### [Movie Analysis for Microsoft](https://github.com/schoremis/Phase_1_Project-S.Choremis), 2022
 
-#### Summary
 In this hypothetical scenario, Microsoft has made the decision create original movies to compete with Netflix, Amazon and Apple streaming services. 
 The project is using data science principles and historic data of the movie industry to determine what type of film Microsoft should produce.
 According to historic data, the project concludes that Animated Movies have in general high Ratings, high Revenue and the highest profitability compared to 15 other Genres.
