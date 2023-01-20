@@ -5,62 +5,31 @@ I am happy to share my Github projects with you.
 ## Projects
 
 ### [Stroke Prediction](https://github.com/schoremis/Phase_5_Project-S.Choremis), 2022
-#### Summary
-The stakeholder of this project is a **Group of Hospitals** located in Florida, US that want to study the **main risk factors for stroke** and examine **if the risk of stroke can be predicted.**
-Our stakeholder is planning to use our analysis to **educate high risk patients about the warning signs** of a stroke and inform them about the **actions that they need to take in case that they detect an event**. 
-Early detection and treatment of a stroke is extremely important as it can **minimize brain damage.**
-
-This project will analyze **historic data of patients** in order to examine if there is any **correlation** but also study **if a stroke event can be predicted based on specific variables**.
-
-To achieve this, the project is using **Machine Learning Classification** principles and algorithms
-    
-According to our analysis, the most important variables that **drive a stroke event** are the below:
-
-- **Age**: The risk for a stroke event is increasing by age. 
-  -  Stroke events very rarely occur to patients below 40 years old. 
-  -  The risk for patients that are over 65 years old to experiance a stroke event is from 5% to 24%
-- **High Blood presure:**: : Patients with high blood presure are more likely to experiance a stroke compared to patients without high blood presure
-- **Heart Disease History**: Patients with Heart Disease History are more likely to experiance a stroke event compared to patients without a Heart Disease History
+The negative impact of stroke in society has led to concerted efforts to improve the management and diagnosis of stroke. 
+This project systematically analyzes the various factors in electronic health records for effective stroke prediction. Using machine learning, I identified the most important factors for stroke prediction and concluded that age, heart disease, average glucose level, and hypertension are the most important variables to detect stroke in patients. 
 
 ### [Pneumonia Detection](https://github.com/schoremis/Phase_4_Project-S.Choremis), 2022
-#### Summary
-The project is analyzing **historic chest x-ray images** of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou in order to **predict whether a future patient has Pneumonia**. 
-- Our Project analyzed **5,863 X-Ray images** provided by Kaggle, organized into 2 categories (Pneumonia/Normal).
-- **6 Machine Learning Models** were built in our project that generated an accuracy rate from 75% to 85% and recall rated from 98% to 99.42%
-- **99.42% Recall rate** was achieved at the 3rd model, CNN with higher epochs
+Though completely treatable, pneumonia continues to be the world's leading cause of death of children under the age of five.
+Once pneumonia has started, time is of the importance since, in severe circumstances, a patient could pass away in a matter of hours.
+However, radiologists are overworked which delays diagnoses and increases their margin for error. AI assisted diagnoses are the solution to this problem.
+In an effort to ensure that no child should die from a treatable illness, I developed a convolutional neural network with 99% recall. 
 
 ### [Customer Churn](https://github.com/schoremis/Phase_3_Project-S.Choremis), 2022
-#### Summary
-The project is analyzing **historic data** of Syriatel **one of the only two mobile network providers in Syria** in order to predict whether a customer will ("soon") stop doing business with SyriaTel. 
-
-In addition, the project will study the **predictable patterns** and **provide recommendations** to SyriaTel management for customer churn reduction.    
-
-According to our analysis, the **most important factors** that drive the decision of a Syriatel Mobile customer to churn are the below:
-- **International Plan**: 42% of the customers that have international plan churned
-- **Total charges**: : Customers with high charges are more likely to churn
-- **Customer Service Calls**: Customers that call the customer service line frequently (especially 4 times and more), have higher probabilities to churn
+One of the most crucial indicators a business can monitor is churn, which offers critical information about customer satisfaction and the organization as a whole.
+SyriaTel's churn is 14 times higher than that of their top 5 telecom sector rivals.
+In my examination of clients who had left the company, I came to the conclusion that "calls to customer support" and "day call charges" were significant predictors of a client's propensity to "soon churn."
+I developed a machine learning model with 87% recall that can predict whether a client will "soon churn" using these features and several others. 
 
 ### [King County Housing Price Predictions](https://github.com/schoremis/Phase_2_Project-S.Choremis), 2022
-#### Summary
-The project is analyzing **historic data** of real estate transactions in **King County Washington** in provide answers to the following questions:
- - What are the key variables that drive Real Estate Prices in King County Washington. 
- - When is the best time to sell real estate in King County Washington
- - By what amount a property renovation is increasing the value of a property in King County Washington
-
-Our Analysis **conclude to the following**:
- - Location, Grade and Sq Ft of Living space are the main drivers of real estate price
- - The highest real estate demand is during Spring and Summer
- - If a property owner can increase the grade by one point for less than $11 per square foot, he should consider renovating
+Zillow has been criticized for its less-than-accurate Zestimate forecasts.
+In this project, I developed regression models that estimate the real estate prices in King County Washington by analyzing historic data of property transactions. The project determines the key variables that drive property prices, the best time to sell real estate, and the amount by which a property renovation increases the selling price.
 
 ### [Movie Analysis for Microsoft](https://github.com/schoremis/Phase_1_Project-S.Choremis), 2022
 
 #### Summary
-Microsoft has decided to create its own studio to make original movies and business stakeholders need to decide what genre of movie Microsoft should produce.
-This project will analyze **historic data of the movie industry** in order to help Microsoft make a **well informed decision**
-
-This report is analyzing data from the Movie Industry to determine which Movie Genre Microsoft should select for creating it's first original video content.
-Our Analysis recommends that Microsoft should create an **Animation movie**.
-According to historic data, Animated Movies have in general **high Ratings**, **high Revenue** and the **highest profitability** compared to 15 other Genres.
+In this hypothetical scenario, Microsoft has made the decision create original movies to compete with Netflix, Amazon and Apple streaming services. 
+The project is using data science principles and historic data of the movie industry to determine what type of film Microsoft should produce.
+According to historic data, the project concludes that Animated Movies have in general high Ratings, high Revenue and the highest profitability compared to 15 other Genres.
 
 
 ## Let's connect!
