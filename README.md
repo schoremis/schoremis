@@ -24,7 +24,7 @@ SyriaTel's churn is 14 times higher than that of their top 5 telecom sector riva
 In my examination of clients who had left the company, I came to the conclusion that "calls to customer support" and "day call charges" were significant predictors of a client's propensity to "soon churn."
 I developed a machine learning model with 87% recall that can predict whether a client will "soon churn" using these features and several others. 
 
-### [King County Housing Price Predictions](https://github.com/schoremis/Phase_2_Project-S.Choremis), 2022
+### [Housing Price Predictions](https://github.com/schoremis/Phase_2_Project-S.Choremis), 2022
 Zillow has been criticized for its less-than-accurate Zestimate forecasts.
 In this project, I developed regression models that estimate the real estate prices in King County Washington by analyzing historic data of property transactions. The project determines the key variables that drive property prices, the best time to sell real estate, and the amount by which a property renovation increases the selling price.
 
