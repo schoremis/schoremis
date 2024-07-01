@@ -2,11 +2,14 @@
 
 ## About me
 International business professional with over fifteen years of experience in manufacturing across the U.S. and Europe.
+
 Directed eight functional areas for large multinational companies, including demand planning, materials planning, production planning, inventory management, business processes, business intelligence, customer service, logistics, and warehousing/distribution.
+
 Currently managing Business Processes, Master Data, and Data Analytics at Airbus US, where we designed and manufactured 800 spacecraft delivering affordable high-speed internet access globally. Responsible for direct reports in Toulouse, France, and Florida, US. Previously led Business Processes, Production, and Materials Planning at Airbus Oneweb. 
 Earlier in my career, I oversaw four functional areas at Thrace Linq, a member of Thrace Group based in South Carolina, managing 14 direct reports in business processes, planning, warehousing/distribution, and customer service. 
 Successfully delivered business-critical projects, including the final phases of relocating a U.S. manufacturing company to Europe and implementing an ERP/SAP system. 
 Graduated from Henley Business School with an MS in RE Finance & Investment.
+
 Passionate about leading and empowering teams to deliver sustainable business growth by creating customer and shareholder value.
 
 ## Projects
