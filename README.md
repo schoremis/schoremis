@@ -2,11 +2,17 @@
 
 ## About me
 **International business professional** with dual U.S. and EU citizenship, and over fifteen years of experience in manufacturing across the U.S. and Europe.
+
 **Directed 10 functional areas** for large, multi-national manufacturing companies including business processes, master data management, business intelligence, logistics, demand planning, materials planning, production planning, inventory management, customer service, warehousing/distribution. 
+
 **Advanced technical proficiency** in SAP ERP (PP, MM, SD, WM), Excel, Python for data science, Power BI, Jira, SCADA/LMS systems, portal systems, visio, statistical modeling, and machine learning. 
+
 **Currently managing** Business Processes, Master Data, and Data Analytics at Airbus US, a leader in space, military helicopters, unmanned aerial systems, and fixed wing aircraft.
+
 **Previously led** Business Processes, Production and Materials Planning at Airbus OneWeb, where we designed and manufactured 800 spacecraft delivering affordable high-speed internet access globally. Responsible for direct reports in Toulouse, France, and Florida, US. 
+
 **Passionate about leading and empowering teams** to deliver sustainable business growth by creating customer and shareholder value.
+
 
 ## Projects
 
