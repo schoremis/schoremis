@@ -20,7 +20,7 @@
 Developed machine learning models to predict the likelihood of stroke using electronic health records.
 * **Methods:** Implemented Logistic Regression, Random Forest, and XGBoost to identify key factors such as age, heart disease, glucose levels, and hypertension.
 * **Data Preprocessing:** Cleaned and normalized data, engineered features, and handled missing values.
-* **Results:** Achieved an AUC of 89% and overall accuracy of 85% on a dataset of 10,000 patient records.
+* **Results:** The models achieved an Area Under the Curve (AUC) of 89% and an overall accuracy of 85% on a dataset of 5,110 patient records.
 * **Impact:** Provided actionable insights to healthcare providers to prioritize high-risk patients, enhancing early intervention strategies.
 * **[View Project](https://github.com/schoremis/Phase_5_Project-S.Choremis)**
 
