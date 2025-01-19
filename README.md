@@ -20,6 +20,7 @@ Developed machine learning models to predict the likelihood of stroke using elec
 * **Data Preprocessing:** Cleaned and normalized data, engineered features, and handled missing values.
 * **Results:** Achieved an AUC of 89% and overall accuracy of 85% on a dataset of 10,000 patient records.
 * **Impact:** Provided actionable insights to healthcare providers to prioritize high-risk patients, enhancing early intervention strategies.
+* **[View Project](https://github.com/schoremis/Phase_5_Project-S.Choremis)**
 
 ### [Pneumonia Detection](https://github.com/schoremis/Phase_4_Project-S.Choremis), 2022
 Though completely treatable, pneumonia continues to be the world's leading cause of death of children under the age of five.
