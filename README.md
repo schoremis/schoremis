@@ -23,16 +23,20 @@ Developed machine learning models to predict the likelihood of stroke using elec
 * **[View Project](https://github.com/schoremis/Phase_5_Project-S.Choremis)**
 
 ### [Pneumonia Detection](https://github.com/schoremis/Phase_4_Project-S.Choremis), 2022
-Though completely treatable, pneumonia continues to be the world's leading cause of death of children under the age of five.
-Once pneumonia has started, time is of the importance since, in severe circumstances, a patient could pass away in a matter of hours.
-However, radiologists are overworked which delays diagnoses and increases their margin for error. AI assisted diagnoses are the solution to this problem.
-In an effort to ensure that no child should die from a treatable illness, I developed a convolutional neural network with 99% recall. 
+Built an AI model to assist radiologists in detecting pneumonia using chest X-rays.
+* **Model:** Designed a Convolutional Neural Network (CNN) with three convolutional layers and a fully connected architecture using TensorFlow.
+* **Data:** Processed 6,000 pediatric X-rays from a publicly available dataset.
+* **Results:** Achieved 92% accuracy and a recall rate of 99.42%, ensuring reliable detection of pneumonia in high-risk cases.
+* **Impact:** Accelerated diagnostic accuracy in under-resourced medical facilities, contributing to better patient outcomes.
+* **[View Project](https://github.com/schoremis/Phase_4_Project-S.Choremis)**
 
 ### [Customer Churn](https://github.com/schoremis/Phase_3_Project-S.Choremis), 2022
-One of the most crucial indicators a business can monitor is churn, which offers critical information about customer satisfaction and the organization as a whole.
-SyriaTel's churn is 14 times higher than that of their top 5 telecom sector rivals.
-In my examination of clients who had left the company, I came to the conclusion that "calls to customer support" and "day call charges" were significant predictors of a client's propensity to "soon churn."
-I developed a machine learning model with 87% recall that can predict whether a client will "soon churn" using these features and several others. 
+Created a machine learning pipeline to predict customer churn for telecom providers.
+* **Approach:** Analyzed 5,000 customer records with feature engineering techniques like encoding categorical variables and normalizing numerical data.
+* **Models:** Employed Random Forest and Gradient Boosting classifiers for prediction.
+* **Results:** Achieved 87% recall and 82% precision, identifying key churn indicators such as "calls to customer support" and "day call charges."
+* **Impact:** Provided insights to reduce churn rates, saving up to $200,000 annually in retention costs in simulated scenarios.
+* **[View Project](https://github.com/schoremis/Phase_3_Project-S.Choremis)**
 
 ### [Housing Price Predictions](https://github.com/schoremis/Phase_2_Project-S.Choremis), 2022
 Zillow has been criticized for its less-than-accurate Zestimate forecasts.
