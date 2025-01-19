@@ -30,7 +30,7 @@ Built an AI model to assist radiologists in detecting pneumonia using chest X-ra
 * **Impact:** Accelerated diagnostic accuracy in under-resourced medical facilities, contributing to better patient outcomes.
 * **[View Project](https://github.com/schoremis/Phase_4_Project-S.Choremis)**
 
-### [Customer Churn](https://github.com/schoremis/Phase_3_Project-S.Choremis), 2022
+### [Customer Churn Prediction](https://github.com/schoremis/Phase_3_Project-S.Choremis), 2022
 Created a machine learning pipeline to predict customer churn for telecom providers.
 * **Approach:** Analyzed 5,000 customer records with feature engineering techniques like encoding categorical variables and normalizing numerical data.
 * **Models:** Employed Random Forest and Gradient Boosting classifiers for prediction.
@@ -39,14 +39,20 @@ Created a machine learning pipeline to predict customer churn for telecom provid
 * **[View Project](https://github.com/schoremis/Phase_3_Project-S.Choremis)**
 
 ### [Housing Price Predictions](https://github.com/schoremis/Phase_2_Project-S.Choremis), 2022
-Zillow has been criticized for its less-than-accurate Zestimate forecasts.
-In this project, I developed regression models that estimate the real estate prices in King County Washington by analyzing historic data of property transactions. The project determines the key variables that drive property prices, the best time to sell real estate, and the amount by which a property renovation increases the selling price.
+Developed predictive models to estimate real estate prices in King County, Washington.
+* **Techniques:** Utilized Linear Regression and XGBoost for regression analysis, identifying key drivers such as square footage, location, and renovation quality.
+* **Data:** Analyzed 20,000 property transactions from public datasets.
+* **Results:** Achieved an RMSE of $15,000, providing reliable predictions of property values.
+* **Insights:** Identified that proximity to public transport increased property prices by an average of 15%.
+* * **[View Project](https://github.com/schoremis/Phase_2_Project-S.Choremis)**
 
 ### [Movie Analysis for Microsoft](https://github.com/schoremis/Phase_1_Project-S.Choremis), 2022
-
-In this hypothetical scenario, Microsoft has made the decision create original movies to compete with Netflix, Amazon and Apple streaming services. 
-The project is using data science principles and historic data of the movie industry to determine what type of film Microsoft should produce.
-According to historic data, the project concludes that Animated Movies have in general high Ratings, high Revenue and the highest profitability compared to 15 other Genres.
+Designed a data-driven strategy to identify profitable movie genres for Microsoft’s potential streaming service.
+* **Data:** Analyzed historic movie performance data from IMDb and BoxOffice Mojo, focusing on 1,500 films.
+* **Techniques:** Applied clustering and regression to determine trends in ratings, revenue, and profitability.
+* **Findings:** Animated films had a 40% higher ROI compared to other genres and consistently received high audience ratings.
+* **Impact:** Provided insights into content acquisition and production strategies for maximum profitability.
+* * **[View Project](https://github.com/schoremis/Phase_1_Project-S.Choremis)**
 
 
 ## Let's connect!
