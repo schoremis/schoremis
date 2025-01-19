@@ -44,7 +44,7 @@ Developed predictive models to estimate real estate prices in King County, Washi
 * **Data:** Analyzed 20,000 property transactions from public datasets.
 * **Results:** Achieved an RMSE of $15,000, providing reliable predictions of property values.
 * **Insights:** Identified that proximity to public transport increased property prices by an average of 15%.
-* * **[View Project](https://github.com/schoremis/Phase_2_Project-S.Choremis)**
+* **[View Project](https://github.com/schoremis/Phase_2_Project-S.Choremis)**
 
 ### [Movie Analysis for Microsoft](https://github.com/schoremis/Phase_1_Project-S.Choremis), 2022
 Designed a data-driven strategy to identify profitable movie genres for Microsoft’s potential streaming service.
@@ -52,7 +52,7 @@ Designed a data-driven strategy to identify profitable movie genres for Microsof
 * **Techniques:** Applied clustering and regression to determine trends in ratings, revenue, and profitability.
 * **Findings:** Animated films had a 40% higher ROI compared to other genres and consistently received high audience ratings.
 * **Impact:** Provided insights into content acquisition and production strategies for maximum profitability.
-* * **[View Project](https://github.com/schoremis/Phase_1_Project-S.Choremis)**
+* **[View Project](https://github.com/schoremis/Phase_1_Project-S.Choremis)**
 
 
 ## Let's connect!
