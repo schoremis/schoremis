@@ -45,7 +45,7 @@ Developed predictive models to estimate real estate prices in King County, Washi
 * **Techniques:** Utilized Linear Regression and XGBoost for regression analysis, identifying key drivers such as square footage, location, and renovation quality.
 * **Data:** Analyzed 20,000 property transactions from public datasets.
 * **Results:** Achieved an RMSE of $15,000, providing reliable predictions of property values.
-* **Insights:** Identified that proximity to public transport increased property prices by an average of 15%.
+* **Insights:** Identified that proximity to public transport increased property prices by an average of 10%.
 * **[View Project](https://github.com/schoremis/Phase_2_Project-S.Choremis)**
 
 ### [Movie Analysis for Microsoft](https://github.com/schoremis/Phase_1_Project-S.Choremis), 2022
