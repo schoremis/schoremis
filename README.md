@@ -16,7 +16,7 @@
 
 ## Projects
 
-### [Stroke Prediction](https://github.com/schoremis/Phase_5_Project-S.Choremis), 2022
+### [Stroke Prediction](https://github.com/schoremis/Phase_5_Project-S.Choremis)
 Developed machine learning models to predict the likelihood of stroke using electronic health records.
 * **Methods:** Implemented Logistic Regression, Random Forest, and XGBoost to identify key factors such as age, heart disease, glucose levels, and hypertension.
 * **Data Preprocessing:** Cleaned and normalized data, engineered features, and handled missing values.
@@ -24,7 +24,7 @@ Developed machine learning models to predict the likelihood of stroke using elec
 * **Impact:** Provided actionable insights to healthcare providers to prioritize high-risk patients, enhancing early intervention strategies.
 * **[View Project](https://github.com/schoremis/Phase_5_Project-S.Choremis)**
 
-### [Pneumonia Detection](https://github.com/schoremis/Phase_4_Project-S.Choremis), 2022
+### [Pneumonia Detection](https://github.com/schoremis/Phase_4_Project-S.Choremis)
 Built an AI model to assist radiologists in detecting pneumonia using chest X-rays.
 * **Model:** Designed a Convolutional Neural Network (CNN) with three convolutional layers and a fully connected architecture using TensorFlow.
 * **Data:** Processed 6,000 pediatric X-rays from a publicly available dataset.
@@ -32,7 +32,7 @@ Built an AI model to assist radiologists in detecting pneumonia using chest X-ra
 * **Impact:** Accelerated diagnostic accuracy in under-resourced medical facilities, contributing to better patient outcomes.
 * **[View Project](https://github.com/schoremis/Phase_4_Project-S.Choremis)**
 
-### [Customer Churn Prediction](https://github.com/schoremis/Phase_3_Project-S.Choremis), 2022
+### [Customer Churn Prediction](https://github.com/schoremis/Phase_3_Project-S.Choremis)
 Created a machine learning pipeline to predict customer churn for telecom providers.
 * **Approach:** Analyzed 5,000 customer records with feature engineering techniques like encoding categorical variables and normalizing numerical data.
 * **Models:** Employed Random Forest and Gradient Boosting classifiers for prediction.
@@ -40,7 +40,7 @@ Created a machine learning pipeline to predict customer churn for telecom provid
 * **Impact:** Provided insights to reduce churn rates, saving up to $200,000 annually in retention costs in simulated scenarios.
 * **[View Project](https://github.com/schoremis/Phase_3_Project-S.Choremis)**
 
-### [Housing Price Predictions](https://github.com/schoremis/Phase_2_Project-S.Choremis), 2022
+### [Housing Price Predictions](https://github.com/schoremis/Phase_2_Project-S.Choremis)
 Developed predictive models to estimate real estate prices in King County, Washington.
 * **Techniques:** Utilized Linear Regression and XGBoost for regression analysis, identifying key drivers such as square footage, location, and renovation quality.
 * **Data:** Analyzed 20,000 property transactions from public datasets.
@@ -48,7 +48,7 @@ Developed predictive models to estimate real estate prices in King County, Washi
 * **Insights:** Identified that proximity to public transport increased property prices by an average of 10%.
 * **[View Project](https://github.com/schoremis/Phase_2_Project-S.Choremis)**
 
-### [Movie Analysis for Microsoft](https://github.com/schoremis/Phase_1_Project-S.Choremis), 2022
+### [Movie Analysis for Microsoft](https://github.com/schoremis/Phase_1_Project-S.Choremis)
 Designed a data-driven strategy to identify profitable movie genres for Microsoft’s potential streaming service.
 * **Data:** Analyzed historic movie performance data from IMDb and BoxOffice Mojo, focusing on 1,500 films.
 * **Techniques:** Applied clustering and regression to determine trends in ratings, revenue, and profitability.
