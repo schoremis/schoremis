@@ -9,7 +9,7 @@
 
 **Currently managing** Business Processes, Master Data, and Data Analytics at Airbus US, a leader in space, military helicopters, unmanned aerial systems, and fixed wing aircraft.
 
-**Previously led** Business Processes, Production and Materials Planning at Airbus OneWeb, where we designed and manufactured 800 spacecraft delivering affordable high-speed internet access globally. Responsible for direct reports in Toulouse, France, and Florida, US. 
+**Previously led** Business Processes, Production and Materials Planning at Airbus OneWeb, where we designed and manufactured 700 spacecraft delivering affordable high-speed internet access globally. Responsible for direct reports in Toulouse, France, and Florida, US. 
 
 **Passionate about leading and empowering teams** to deliver sustainable business growth by creating customer and shareholder value.
 
